@@ -1,3 +1,10 @@
+print("test print")
+print("second test print")
+print("Lim is bad")
+print("yes")
+
+
+print("poo")
 import random
 import datetime
 def force_number(message, lower, upper):
